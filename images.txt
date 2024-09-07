@@ -1,1 +1,2 @@
 linuxserver/qbittorrent
+shmilyin/nas-tools
